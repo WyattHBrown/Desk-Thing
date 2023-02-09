@@ -35,15 +35,15 @@ time
 You will also need to get an OpenWeatherMap API Key
 you also need to place 
 ### How to use:
-Open Main.py
-the variables are marked at the top, fill them out as wanted
-you can also add or remove sections based off of the example chunk
-you can also add or remove weather sections based off of the JSON from OWM
-once you have filled out the sections, it should be able to see all of your provided information!
+- Open Main.py
+- the variables are marked at the top, fill them out as wanted
+- you can also add or remove sections based off of the example chunk
+- you can also add or remove weather sections based off of the JSON from OWM
+- once you have filled out the sections, it should be able to see all of your provided information!
 
 ### Thanks To:
-[Raspberry pi guy's lcd library](https://github.com/the-raspberry-pi-guy/lcd)
-[feedparser](https://pypi.org/project/feedparser/)
+- [Raspberry pi guy's lcd library](https://github.com/the-raspberry-pi-guy/lcd)
+- [feedparser](https://pypi.org/project/feedparser/)
 
 ### To Be Completed:
 - [ ] Clean up code
