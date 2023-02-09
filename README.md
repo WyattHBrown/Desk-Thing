@@ -52,6 +52,8 @@ you also need to place
 - [ ] Add stocks for no reason
 - [ ] fix up readme
 - [ ] sort files properly
+- [ ] Email...?
+- [ ] Calendar Integration (probably will be google calendar, I'm sorry)
 - [x] add time
 - [x] add weather
 - [x] convert to Pi guy's API
