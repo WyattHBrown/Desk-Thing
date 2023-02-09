@@ -19,7 +19,7 @@ I borrowed some code from [Raspberry pi guy's lcd library](https://github.com/th
 
 The News feed uses RSS, and loads the most recent news headlines, it also loops a certain number of times (set to 150150150 just to keep it going for as long as possible)
 
-### Requirements
+# Requirements
 
 This project requires you to enable I2C in your raspberry pi settings, do so by doing:
 - `sudo raspi-config`
