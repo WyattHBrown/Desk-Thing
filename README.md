@@ -28,7 +28,7 @@ The News feed uses RSS. It takes just the most recent News headlines from that R
 - `sudo raspi-config`
 - Interface options
 - Enable i2c interface
-- connect your i2c display! (depending on what type of Pi you have, or what type of display you have, it might be different on how you set it up.)\
+- connect your i2c display! (depending on what type of Pi you have, or what type of display you have, it might be different on how you set it up.)
 
 2. the python requirements are
 - time
