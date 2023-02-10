@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: something broken? I'm not surprised honestly, let me know what I broke, and if I or a community member could help!
+about: something broken? I'm not surprised honestly. Let me know what I broke, and if I or a community member could help!
 title: ''
 labels: bug
 assignees: ''
