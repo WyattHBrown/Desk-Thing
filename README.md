@@ -10,7 +10,7 @@ I borrowed some code from [Raspberry pi guy's lcd library](https://github.com/th
 ### What it uses:
 
 - A raspberry Pi (I have been using a Pi 4, I havent tested others)
-- An i2C character display (I have a 16x2 LCD, you can change the display type in Main.py
+- An i2C character display (I have a 16x2 LCD, you can change the display type in Main.py)
 
 ### What it does:
 - Displays the Date and time, as well as the time zone and other specific date formats such as the year and date to year
@@ -20,27 +20,28 @@ I borrowed some code from [Raspberry pi guy's lcd library](https://github.com/th
 - Can display a custom message of your choice
 - and more!
 
-The News feed uses RSS, and loads the most recent news headlines, it also loops a certain number of times (set to 150150150 just to keep it going for as long as possible)
+The News feed uses RSS. It takes just the most recent News headlines from that RSS (however many you want is changeable in the code) it also loops a certain number of times (set to 150150150 just to keep it going for as long as possible)
 
 # Requirements
 
-This project requires you to enable I2C in your raspberry pi settings, do so by doing:
+1. This project requires you to enable I2C in your raspberry pi settings, do so by doing:
 - `sudo raspi-config`
 - Interface options
 - Enable i2c interface
 - connect your i2c display! (depending on what type of Pi you have, or what type of display you have, it might be different on how you set it up.)\
 
-you will need to use pip to install requirements, the ones I downloaded are:
-time
-[Feedparser](https://pypi.org/project/feedparser/)
-
-You will also need to get an OpenWeatherMap API Key
+2. the python requirements are
+- time
+- [Feedparser](https://pypi.org/project/feedparser/)
+- threading
+- requests
+if you don't have them, you can use pip to isntall them via the terminal
+3. You will also need to get an OpenWeatherMap API Key
 
 ### How to use:
 - Open Main.py
-- the variables are marked at the top, fill them out as wanted
-- you can also add or remove sections based off of the example chunk
-- you can also add or remove weather sections based off of the JSON from OWM
+- edit the variables to your liking (the required ones to edit are at the top after imports, for easy access
+- you can also add or remove weather sections based off of what is already there (check out the JSON to see what you can get!)
 - once you have filled out the sections, it should be able to see all of your provided information!
 
 ## Thanks To:
