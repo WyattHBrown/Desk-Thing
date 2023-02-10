@@ -1,7 +1,8 @@
 # Desk-Thing
 A small little desk feed to keep you up to date on (almost) anything you might care about.
 
-<img alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." src="https://www.repostatus.org/badges/latest/active.svg"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/WyattHBrown/Desk-Thing"> <img alt="website" src="https://img.shields.io/badge/Website-Vestbot.ca-blueviolet">
+<img alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." src="https://www.repostatus.org/badges/latest/active.svg"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/WyattHBrown/Desk-Thing"> <img alt="website" src="https://img.shields.io/badge/Website-Vestbot.ca-blueviolet"><img alt="Version" src="https://img.shields.io/github/v/tag/wyatthbrown/Desk-thing"><img alt="License" src="https://img.shields.io/github/license/WyattHBrown/Desk-Thing"><img alt="Last Update" src="https://img.shields.io/github/last-commit/WyattHBrown/Desk-Thing"><img alt="Last Update" src="https://img.shields.io/github/last-commit/WyattHBrown/Desk-Thing"><img alt="Issues" src="https://img.shields.io/github/issues/WyattHBrown/desk-thing?color=red"><img alt="Issues closed" src="https://img.shields.io/github/issues-closed/WyattHBrown/desk-thing?color=27bfa7">
+
 
 This is a small little project that I have been working on in my spare time for a while. It is very janky, but because I have been working on it in the background for a long time I decided to release my child to you, the GitHub community, for feedback!
 it is very very rough, some things could dramatically be done better. As long as it works, I'm happy.
