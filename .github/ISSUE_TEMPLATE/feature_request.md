@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: More information?! Hell yeah! Let us know what you want to see, and either the community or I will see what we can do!
 title: ''
 labels: enhancement
 assignees: ''
