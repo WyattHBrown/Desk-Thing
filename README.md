@@ -28,7 +28,7 @@ This project requires you to enable I2C in your raspberry pi settings, do so by 
 - `sudo raspi-config`
 - Interface options
 - Enable i2c interface
-depending on what type of Pi you have, or what type of display you have, it might be different on how you set it up.
+- connect your i2c display! (depending on what type of Pi you have, or what type of display you have, it might be different on how you set it up.)
 
 you will need to use pip to install requirements, the ones I downloaded are:
 [RPLCD](https://pypi.org/project/RPLCD/)
