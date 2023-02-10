@@ -35,7 +35,6 @@ time
 [Feedparser](https://pypi.org/project/feedparser/)
 
 You will also need to get an OpenWeatherMap API Key
-you also need to place 
 
 ### How to use:
 - Open Main.py
