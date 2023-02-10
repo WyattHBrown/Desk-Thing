@@ -1,5 +1,10 @@
 # Desk-Thing
 A small little desk feed to keep you up to date on (almost) anything you might care about.
+.. image:: https://www.repostatus.org/badges/latest/active.svg
+   :alt: Project Status: Active – The project has reached a stable, usable state and is being actively developed.
+   :target: https://www.repostatus.org/#active
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/WyattHBrown/Desk-Thing">
+https://img.shields.io/badge/Website-Vestbot.ca-blueviolet
 This is a small little project that I have been working on in my spare time for a while. It is very janky, but because I have been working on it in the background for a long time I decided to release my child to you, the GitHub community, for feedback!
 it is very very rough, some things could dramatically be done better. As long as it works, I'm happy.
 I borrowed some code from [Raspberry pi guy's lcd library](https://github.com/the-raspberry-pi-guy/lcd) to get the scrolling text to work with weather and [feedparser](https://pypi.org/project/feedparser/)
@@ -47,15 +52,4 @@ you also need to place
 - [feedparser](https://pypi.org/project/feedparser/)
 
 ## To Be Completed:
-- [ ] Clean up code
-- [ ] Remove unnecessary code and dependencies
-- [ ] Add stocks for no reason
-- [ ] fix up readme
-- [ ] sort files properly
-- [ ] Email...?
-- [ ] Calendar Integration (probably will be google calendar, I'm sorry)
-- [x] add time
-- [x] add weather
-- [x] convert to Pi guy's API
-
-if you wish to see anything else please let me know!
+Check the issues tab!
