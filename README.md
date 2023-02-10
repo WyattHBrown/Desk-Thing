@@ -35,6 +35,7 @@ The News feed uses RSS. It takes just the most recent News headlines from that R
 - [Feedparser](https://pypi.org/project/feedparser/)
 - threading
 - requests
+
 if you don't have them, you can use pip to isntall them via the terminal
 3. You will also need to get an OpenWeatherMap API Key
 
